@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Dalaskor
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning Python
 - 📫 How to reach me -> telegram @DALASKOR
