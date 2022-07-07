@@ -13,3 +13,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/Dalas_prog)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK)](https://vk.com/dalaskord)
+
+[![Dalaskor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dalaskor&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalaskor&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
