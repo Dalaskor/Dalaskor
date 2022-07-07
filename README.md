@@ -1,6 +1,6 @@
 ![Header](https://github.com/Dalaskor/Dalaskor/blob/main/assets/header.png?raw=true)
 
-About me
+## I'm beginer Frontend developer
 
 Language and Tools
 
