@@ -9,4 +9,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=SASS)
 ![PUG](https://img.shields.io/badge/-PUG-000000?style=for-the-badge&logo=PUG)
 
-Follow Me
+## Follow Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/Dalas_prog)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK)](https://vk.com/dalaskord)
