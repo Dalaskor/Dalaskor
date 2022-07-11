@@ -2,6 +2,12 @@
 
 ## I'm beginer Frontend developer
 
+- **Name:** Danila
+- **Live in:** Russia, Astrakhan
+- **Understand**: English, Russian
+
+## Languages and Tools
+
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=2965F1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
