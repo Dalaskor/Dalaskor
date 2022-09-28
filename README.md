@@ -17,7 +17,7 @@
 
 ## Follow Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/Dalas_prog)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/dalaskor)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord)](https://discordapp.com/users/851380986302562324/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK)](https://vk.com/dalaskord)
 
