@@ -1,6 +1,6 @@
 ![Header](https://github.com/Dalaskor/Dalaskor/blob/main/assets/header.png?raw=true)
 
-## I'm Frontend developer
+## I'm Web developer
 
 - **Name:** Danila
 - **Live in:** Russia, Astrakhan
@@ -8,11 +8,13 @@
 
 ## Languages and Tools
 
+![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
+![PSQL](https://img.shields.io/badge/-psql-000000?style=for-the-badge&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-redux-000000?style=for-the-badge&logo=redux)
 ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=Vue.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=2965F1)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=SASS)
