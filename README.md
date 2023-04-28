@@ -10,6 +10,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript)
+![NodeJS](https://img.shields.io/badge/-NodeJs-000000?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
 ![PSQL](https://img.shields.io/badge/-psql-000000?style=for-the-badge&logo=postgresql)
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
