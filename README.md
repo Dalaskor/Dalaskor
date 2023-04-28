@@ -8,10 +8,10 @@
 
 ## Languages and Tools
 
-![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
-![PSQL](https://img.shields.io/badge/-psql-000000?style=for-the-badge&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript)
+![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
+![PSQL](https://img.shields.io/badge/-psql-000000?style=for-the-badge&logo=postgresql)
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-redux-000000?style=for-the-badge&logo=redux)
 ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=Vue.js)
@@ -22,7 +22,7 @@
 
 ## Follow Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/dalaskor)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/dalasprog)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord)](https://discordapp.com/users/851380986302562324/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK)](https://vk.com/dalaskord)
 
