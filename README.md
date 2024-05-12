@@ -8,6 +8,7 @@
 
 ## Languages and Tools
 
+![Go](https://img.shields.io/badge/-go-000000?style=for-the-badge&logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript)
 ![NodeJS](https://img.shields.io/badge/-NodeJs-000000?style=for-the-badge&logo=node.js)
@@ -16,10 +17,6 @@
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-redux-000000?style=for-the-badge&logo=redux)
 ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=Vue.js)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=2965F1)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=SASS)
-![PUG](https://img.shields.io/badge/-PUG-000000?style=for-the-badge&logo=PUG)
 
 ## Follow Me
 
